@@ -1,0 +1,43 @@
+.derecha{
+    text-align: right;
+    padding: 40px
+}
+.img-principal{
+    margin: 25px;
+    margin-left: 8px;
+}
+.imgagen{
+    text-align: left;
+    padding: 40px;
+}
+.logo{
+    width: 100px;
+    margin-right: 40px;
+}
+
+.titulo{
+    margin: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+section {
+    padding: 0px 10px;
+}
+#section-1{
+    background-color: #a6b5cc;
+}
+#section-2{
+    background-color: #b6d4fe;
+}
+#section-3{
+    background-color: #a3cfbb;
+}
